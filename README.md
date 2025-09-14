@@ -1,6 +1,6 @@
 ## Power BI Project
 
-📊 See the full dashboard here : [App PowerBi link](https://drive.google.com/file/d/11cpMeuJdrCuBUMIhG3e7xf4fWdk87acY/view?usp=drive_link)
+📊 See the full dashboard here : [App PowerBi link](https://drive.google.com/file/d/1VlG43fVHtD3VFFwIrnMzre-VxmAvKlel/view?usp=drive_link)
 
 - Created a multi-functional PowerBi dashboard to analyze Atliq's hardware's sales trends over global market by gathering data from two different sources (Excel/CSV files and a SQL database)
 - Built data models and visualizations in PowerBi, and optimized the report with DAX studio, which improved the **performance** of the report by **5%** (Loading time reduced to 50s)
